@@ -9,6 +9,7 @@ sys32
 # npx create-react-app my-movies
 # npm i react-router-dom styled-components axios
 
+# npm start
 
 # serviço que vamos pegar os dados 
 https://www.themoviedb.org/settings/api
